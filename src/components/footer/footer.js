@@ -19,7 +19,7 @@ class Footer extends Component {
       </ul>
       <ul className="copyright">
         <li>© Copyright </li>
-        <li>Design by <a title="omsitsolutions" href="http://www.omsitsolutions.com/">OMS IT SOLUTIONS</a></li>
+        <li>Design by <a title="nitintayal"  href="https://www.linkedin.com/in/nitin-tayal-48693437/">NITIN TAYAL</a></li>
       </ul>
     </div>
     <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
